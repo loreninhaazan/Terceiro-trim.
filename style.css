@@ -1,5 +1,6 @@
 body{background-color: rgb(226, 43, 144);
 }
+widh
 h1{text-align: center;
 }
 h2{border-style: double;
@@ -10,4 +11,4 @@ border-width: 40px;
 border-style: double;
 border-color: rgb(238, 29, 144);
 font-size: 200%;}
- 
+ header {width: 20%;}
