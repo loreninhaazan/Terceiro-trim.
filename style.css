@@ -2,9 +2,12 @@ body{background-color: rgb(226, 43, 144);
 }
 h1{text-align: center;
 }
-h1{border-style: double;
+h2{border-style: double;
 border-color: rgb(255, 0, 98);
-border-width: 25px;
+border-width: 40px;
  }
- 
+ h3 {text-decoration: overline;
+border-style: double;
+border-color: rgb(238, 29, 144);
+font-size: 200%;}
  
